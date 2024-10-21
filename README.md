@@ -24,12 +24,13 @@ python python-ascii-qr-generator.py
 Follow the prompts to enter your URL or text and choose the size of the QR code.
 
 ## Example
+```
 Compact ASCII QR Code Generator
 Enter the URL or text (or 'q' to quit): https://github.com
 Enter the size (default is 1): 1
 
 Here's your compact ASCII QR code:
-```
+
  ▄▄▄▄▄▄▄ ▄ ▄▄  ▄▄▄ ▄▄▄▄▄▄▄ 
  █ ▄▄▄ █   █  ▀▄ ▀ █ ▄▄▄ █ 
  █ ███ █ ██▀▄▄ ▄▄█ █ ███ █ 
