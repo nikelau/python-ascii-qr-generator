@@ -5,19 +5,21 @@ This is a simple Python tool that generates ASCII representations of QR codes fo
 ## Installation
 
 1. Clone this repository:
-
+```
 git clone https://github.com/nikelau/python-ascii-qr-generator.git
-
 cd python-ascii-qr-generator
-
+```
 2. Install the required packages:
-
+```
 pip install -r requirements.txt
+```
 
 ## Usage
 
 Run the script:
+```
 python python-ascii-qr-generator.py
+```
 
 Follow the prompts to enter your URL or text and choose the size of the QR code.
 
@@ -27,6 +29,7 @@ Enter the URL or text (or 'q' to quit): https://github.com
 Enter the size (default is 1): 1
 
 Here's your compact ASCII QR code:
+```
  ▄▄▄▄▄▄▄ ▄ ▄▄  ▄▄▄ ▄▄▄▄▄▄▄ 
  █ ▄▄▄ █   █  ▀▄ ▀ █ ▄▄▄ █ 
  █ ███ █ ██▀▄▄ ▄▄█ █ ███ █ 
@@ -40,7 +43,8 @@ Here's your compact ASCII QR code:
  █ ▄▄▄ █ ▄ █▄▀▄█ █▄▄▄███▀█ 
  █ ███ █  ▄▄▄█▄▄▀▄██▀ ▄▀█▀ 
  █▄▄▄▄▄█ ▄ █▀▄█ ▄ ▀█▀▀▀██▄ 
-     
+```
+  
 Data: https://github.com	 
 
 ## License
