@@ -5,10 +5,13 @@ This is a simple Python tool that generates ASCII representations of QR codes fo
 ## Installation
 
 1. Clone this repository:
+
 git clone https://github.com/nikelau/python-ascii-qr-generator.git
+
 cd python-ascii-qr-generator
 
 2. Install the required packages:
+
 pip install -r requirements.txt
 
 ## Usage
